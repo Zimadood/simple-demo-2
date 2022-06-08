@@ -1,2 +1,2 @@
-# simple-demo-2
-Taylor-Git-Course-June-2022
+# Simple Example Repository
+This is an example repository for training purposes.
